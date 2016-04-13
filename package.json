@@ -1,0 +1,28 @@
+{
+  "name": "pg-ka-fix",
+  "version": "1.0.0",
+  "description": "This package fixes keep-alive problem of node-postgres package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumminorihSF/pg-ka-fix.git"
+  },
+  "keywords": [
+    "pg",
+    "keep-alive",
+    "postgre",
+    "postgres",
+    "node-postgres",
+    "pg-fix",
+    "fix"
+  ],
+  "author": "Konstantine Petryaev <numminorihsf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumminorihSF/pg-ka-fix/issues"
+  },
+  "homepage": "https://github.com/NumminorihSF/pg-ka-fix#readme"
+}
