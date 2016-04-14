@@ -1,6 +1,6 @@
 {
   "name": "pg-ka-fix",
-  "version": "1.0.0",
+  "version": "1.0.0-rm-fix",
   "description": "This package fixes keep-alive problem of node-postgres package.",
   "main": "index.js",
   "scripts": {

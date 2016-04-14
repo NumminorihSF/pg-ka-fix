@@ -6,7 +6,7 @@ This package fixes keep-alive problem of node-postgres package.
 
     npm install pg-ka-fix
     
-**Warning!** Package has now dependencies. To use pg - you should add it to your project dependencies.
+**Warning!** Package has no dependencies. To use pg - you should add it to your project dependencies.
     
 ## Usage
 
